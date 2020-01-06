@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LayoutTest</string>
+    <string-array name="characters">
+        <item>Sponge bob</item>
+        <item>Patrick</item>
+        <item>Sandy</item>
+        <item>Squidword</item>
+    </string-array>
+</resources>
